@@ -1,0 +1,8 @@
+{
+  "name": "iot_dynamodb",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::123275298972:role/iot_dynamodb_lambda_function",
+  "environment": {}
+}
